@@ -28,3 +28,13 @@ function buttonAlert(clicked_id) {
     }
 }
 
+//console.log the number of letters in Supercalifragilisticexpialidocious
+console.log('Supercalifragilisticexpialidocious'.length);
+
+//console.log any number
+console.log(777);
+console.log(typeof 777);
+
+//console.log a BigInt
+console.log(1234n);
+console.log(typeof 1234n);
